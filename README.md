@@ -1,7 +1,6 @@
 # levon_openSource
 
-    This directory contains LEVON'S side projects which could replicated  and modified
-by anyone.
+    This directory contains LEVON'S side projects which could replicated  and modified by anyone.
 
 # FarmIoT (LEVONATOR)
 
@@ -20,6 +19,8 @@ by anyone.
 ✅ WiFi module which connects the device to the internet.
 ✅ Plastic frame to house all the electronics and sensor.
 
+![Alt text](Levonator-1.png)
+
 ⭕ The software used are;
 ✅Arduino IDE: This is used to program our micro-controller.
 ✅Thingspeak: This saves as the IoT online platform to monitor and analyse the data collected by the device.
@@ -37,3 +38,5 @@ by anyone.
 ✅Powering the device with renewable energy, in our case solar energy.
 
 ⭕ The picture below shows a real time data collected and published online by the device.
+
+![Alt text](LevonatorData2.png)
